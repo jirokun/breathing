@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/breathing/static/css/main.e6c13ad2.css",
+    "main.js": "/breathing/static/js/main.711c7c3d.js",
+    "static/js/845.7da37d42.chunk.js": "/breathing/static/js/845.7da37d42.chunk.js",
+    "static/js/787.394db678.chunk.js": "/breathing/static/js/787.394db678.chunk.js",
+    "index.html": "/breathing/index.html",
+    "main.e6c13ad2.css.map": "/breathing/static/css/main.e6c13ad2.css.map",
+    "main.711c7c3d.js.map": "/breathing/static/js/main.711c7c3d.js.map",
+    "845.7da37d42.chunk.js.map": "/breathing/static/js/845.7da37d42.chunk.js.map",
+    "787.394db678.chunk.js.map": "/breathing/static/js/787.394db678.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.711c7c3d.js"
+  ]
+}
