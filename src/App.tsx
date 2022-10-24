@@ -10,7 +10,7 @@ const checkTimeout = (timeout: number, startTime: number) => {
   return new Date().getTime() - startTime > timeout;
 }
 function App() {
-  const [trainingMinutes, setTrainingMinutes] = useState<number>(1);
+  const [trainingMinutes, setTrainingMinutes] = useState<number>(5);
   const [breatheOut, setBreatheOut] = useState<number>(8);
   const [breatheIn, setBreatheIn] = useState<number>(3);
   const [breatheStop, setBreatheStop] = useState<number>(2);
